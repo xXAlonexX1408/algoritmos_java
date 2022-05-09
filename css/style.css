@@ -1,0 +1,54 @@
+body{
+
+margin: 0%;
+background: url(../img/11760.jpg);
+background: cover;
+width: 100%;
+height: 200vh;
+text-align: center;
+
+
+}
+
+#contenedor h1 {
+
+    color: rgb(233, 239, 239);
+    font-size: 50px;
+    text-transform: uppercase;
+
+
+}
+
+#contenedor p {
+
+font-size: 30px;
+color: #06f6f2;
+
+}
+
+#contenedor {
+width: 80%;
+
+font-size: 50px;
+padding: 100px 120px;
+background: rgba(70, 152, 190, 0.281) ;
+margin: 0 auto;
+}
+
+#contenedor button {
+cursor: pointer;
+padding:  8px 20px;
+background: rgb(231, 247, 3);
+border: 2px solid rgb(254, 254, 253) ;
+font-size: 30px;
+transition: .5s;
+margin: 10px 30px;
+
+
+}
+
+#contenedor button:hover{
+background: #0a9ae3;
+padding: 8px 40px;
+
+}
